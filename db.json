@@ -1,14 +1,7 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+{ "Response":
+    {
+      "forehand":["locolhost:3000","locolhost:3001"], 
+      "backhand": ["locolhost:8000","locolhost:3002","locolhost:3003"]
+    }
 }
