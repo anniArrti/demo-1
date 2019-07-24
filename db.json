@@ -1,5 +1,5 @@
 
 {
-    "forehands":[2.2,2.1],
-    "backhands":[1.1,1.2,4.9]
+    "forehands":['https://www.youtube.com/watch?v=sfBguU0U6Jg&t=2.1','https://www.youtube.com/watch?v=sfBguU0U6Jg&t=2.2'],
+    "backhands":['https://www.youtube.com/watch?v=sfBguU0U6Jg&t=1.1','https://www.youtube.com/watch?v=sfBguU0U6Jg&t=1.2','https://www.youtube.com/watch?v=sfBguU0U6Jg&t=4.9]
 }
